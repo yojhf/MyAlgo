@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\GitHub\MyAlgo\Test01\x64\Debug\RecursiveTest.exe</FullPath>
+      <FullPath>D:\GitHub\MyAlgo\x64\Debug\RecursiveTest.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

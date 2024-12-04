@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\GitHub\\MyAlgo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{256FC4AC-BC81-4E1D-A22A-02E7B692191B}|ListTest\\ListTest.vcxproj|D:\\GitHub\\MyAlgo\\ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{256FC4AC-BC81-4E1D-A22A-02E7B692191B}|ListTest\\ListTest.vcxproj|solutionrelative:ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test01\\Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F99C3A-65CB-42AA-9A44-11728AE1D97F}|SortTest\\SortTest.vcxproj|D:\\GitHub\\MyAlgo\\SortTest\\SortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8F99C3A-65CB-42AA-9A44-11728AE1D97F}|SortTest\\SortTest.vcxproj|solutionrelative:SortTest\\SortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84178159-DBFA-43F6-8CF0-FAF4F857623F}|RecursiveTest\\RecursiveTest.vcxproj|D:\\GitHub\\MyAlgo\\RecursiveTest\\RecursiveTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{84178159-DBFA-43F6-8CF0-FAF4F857623F}|RecursiveTest\\RecursiveTest.vcxproj|solutionrelative:RecursiveTest\\RecursiveTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A26F42-EF93-4C23-8903-E2F549E8E99C}|QueueTest\\QueueTest.vcxproj|D:\\GitHub\\MyAlgo\\QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07A26F42-EF93-4C23-8903-E2F549E8E99C}|QueueTest\\QueueTest.vcxproj|solutionrelative:QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F2DC8C5-4A27-4299-82F9-D55ED7E9D4D9}|StackTest\\StackTest.vcxproj|D:\\GitHub\\MyAlgo\\StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F2DC8C5-4A27-4299-82F9-D55ED7E9D4D9}|StackTest\\StackTest.vcxproj|solutionrelative:StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADB9046-D955-4516-AD49-538D8797B775}|Test01\\Test01.vcxproj|D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5ADB9046-D955-4516-AD49-538D8797B775}|Test01\\Test01.vcxproj|solutionrelative:Test01\\Test01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{256FC4AC-BC81-4E1D-A22A-02E7B692191B}|ListTest\\ListTest.vcxproj|D:\\GitHub\\MyAlgo\\ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{256FC4AC-BC81-4E1D-A22A-02E7B692191B}|ListTest\\ListTest.vcxproj|solutionrelative:ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A26F42-EF93-4C23-8903-E2F549E8E99C}|QueueTest\\QueueTest.vcxproj|D:\\GitHub\\MyAlgo\\QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07A26F42-EF93-4C23-8903-E2F549E8E99C}|QueueTest\\QueueTest.vcxproj|solutionrelative:QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RecursiveTest.cpp",
-              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\RecursiveTest\\RecursiveTest.cpp",
-              "RelativeDocumentMoniker": "RecursiveTest\\RecursiveTest.cpp",
-              "ToolTip": "D:\\GitHub\\MyAlgo\\RecursiveTest\\RecursiveTest.cpp",
-              "RelativeToolTip": "RecursiveTest\\RecursiveTest.cpp",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Title": "SortTest.cpp",
+              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\SortTest\\SortTest.cpp",
+              "RelativeDocumentMoniker": "SortTest\\SortTest.cpp",
+              "ToolTip": "D:\\GitHub\\MyAlgo\\SortTest\\SortTest.cpp",
+              "RelativeToolTip": "SortTest\\SortTest.cpp",
+              "ViewState": "AQIAABMBAAAAAAAAAAAqwCoBAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-27T01:10:53.909Z",
+              "WhenOpened": "2024-11-28T00:45:13.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RecursiveTest.cpp",
+              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\RecursiveTest\\RecursiveTest.cpp",
+              "RelativeDocumentMoniker": "RecursiveTest\\RecursiveTest.cpp",
+              "ToolTip": "D:\\GitHub\\MyAlgo\\RecursiveTest\\RecursiveTest.cpp",
+              "RelativeToolTip": "RecursiveTest\\RecursiveTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T01:10:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "QueueTest.cpp",
               "DocumentMoniker": "D:\\GitHub\\MyAlgo\\QueueTest\\QueueTest.cpp",
               "RelativeDocumentMoniker": "QueueTest\\QueueTest.cpp",
@@ -56,18 +72,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-26T03:07:22.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StackTest.cpp",
-              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\StackTest\\StackTest.cpp",
-              "RelativeDocumentMoniker": "StackTest\\StackTest.cpp",
-              "ToolTip": "D:\\GitHub\\MyAlgo\\StackTest\\StackTest.cpp",
-              "RelativeToolTip": "StackTest\\StackTest.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T00:51:28.459Z"
             }
           ]
         },
@@ -78,6 +82,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test01.cpp",
+              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp",
+              "RelativeDocumentMoniker": "Test01\\Test01.cpp",
+              "ToolTip": "D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp",
+              "RelativeToolTip": "Test01\\Test01.cpp",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAYwL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:47:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ListTest.cpp",
               "DocumentMoniker": "D:\\GitHub\\MyAlgo\\ListTest\\ListTest.cpp",
               "RelativeDocumentMoniker": "ListTest\\ListTest.cpp",
@@ -85,20 +102,19 @@
               "RelativeToolTip": "ListTest\\ListTest.cpp",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T02:56:01.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:56:01.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Test01.cpp",
-              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp",
-              "RelativeDocumentMoniker": "Test01\\Test01.cpp",
-              "ToolTip": "D:\\GitHub\\MyAlgo\\Test01\\Test01.cpp",
-              "RelativeToolTip": "Test01\\Test01.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAACAAAA",
+              "DocumentIndex": 3,
+              "Title": "StackTest.cpp",
+              "DocumentMoniker": "D:\\GitHub\\MyAlgo\\StackTest\\StackTest.cpp",
+              "RelativeDocumentMoniker": "StackTest\\StackTest.cpp",
+              "ToolTip": "D:\\GitHub\\MyAlgo\\StackTest\\StackTest.cpp",
+              "RelativeToolTip": "StackTest\\StackTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T00:43:51.236Z"
+              "WhenOpened": "2024-11-26T00:51:28.459Z"
             }
           ]
         }

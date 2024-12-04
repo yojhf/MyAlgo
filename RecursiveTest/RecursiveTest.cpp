@@ -150,6 +150,9 @@ int main()
 	//cout << mgcd(24, 18) << endl;
 	//cout << mlcm(2, 5) << endl;
 
+	cout << gcd(24, 18) << endl;
+	cout << lcm(2, 5) << endl;
+
 	vector<int> vec{ 1,2,3,4 };
 
 	permutation(vec, 0);
